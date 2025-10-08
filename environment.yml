@@ -1,0 +1,14 @@
+name: act7-env
+channels:
+  - conda-forge
+dependencies:
+  - python=>3.10
+  - cdsapi
+  - numpy
+  - netCDF4
+  - pandas
+  - xarray
+  - matplotlib
+  - cartopy
+  - seaborn
+  - jupyterlab-myst
